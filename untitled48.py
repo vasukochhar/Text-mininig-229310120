@@ -88,6 +88,6 @@ print(f"Predicted Sentiment: {predicted_sentiment}")
 from google.colab import auth
 auth.authenticate_user()
 
-#Jatinpreet Singh
+#Vasu Kochhar
 
 
